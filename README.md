@@ -1,1 +1,1 @@
-# free-vps-2025
+# PufferPanel
